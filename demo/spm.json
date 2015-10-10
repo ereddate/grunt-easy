@@ -1,0 +1,9 @@
+{
+	"paths": [""],
+	"alias": {
+		"header": "modules/js/header/header.0.0.1"
+	},
+	"args": {
+		"test": "trunk/test/js/"
+	}
+}
